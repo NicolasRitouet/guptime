@@ -1,6 +1,6 @@
 # Guptime
 
-> Tiny dockerized API to check the availability of a list of URLs
+> Tiny (7.81MB) dockerized API to check the availability of a list of URLs
 
 ## Getting started
 
