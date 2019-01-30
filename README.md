@@ -1,5 +1,8 @@
 # Guptime
 
+[![Docker automated](https://img.shields.io/docker/automated/nicolasritouet/guptime.svg?style=flat-square)](https://hub.docker.com/r/nicolasritouet/guptime)
+[![Docker builds](https://img.shields.io/docker/build/nicolasritouet/guptime.svg?style=flat-square)](https://hub.docker.com/r/nicolasritouet/guptime/builds)
+
 > Tiny (7.81MB) dockerized API to check the availability of a list of URLs
 
 ## Getting started
